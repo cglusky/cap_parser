@@ -1,0 +1,10 @@
+Unless otherwise noted everything in here is GPL
+
+This is an experimental Common Alerting Protocol(CAP) Parser
+
+It's for use with Drupal 6 and the FeedAPI module
+
+It is essentially a copy of the common syndication parser that comes with FeedAPI tweaked to work with ATOM/CAP feeds.
+
+It's very rough but works for basic needs.
+
